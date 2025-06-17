@@ -1,0 +1,4 @@
+This is first file and writing it for tasks of day 03
+My name is usama and how Everybody is doing and whats going on.
+I have been learning devops and this is my task for day 03.
+I hope everyone is understanding and enjoying them too
