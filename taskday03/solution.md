@@ -15,5 +15,4 @@ Task 2: Change the access permissions of files to make them readable, writable, 
         ls -l permissions.txt
 
 Task 3: Check the last 10 commands you have run.
-
-    ![Answer Diagram](task3day03.png)
+![Answer Diagram](task3day03.png)
