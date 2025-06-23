@@ -1,10 +1,6 @@
 
 Task 1: View the content of a file and display line numbers.
-
- Answer 
-        Make a file e.g usama.txt and write 3 line in that file then run this command to view the content of the file with the line number
-        
-        cat -n usama.txt
+![Answer Diagram](task1day03.png)
 
 Task 2: Change the access permissions of files to make them readable, writable, and executable by the owner only.
 ![Answer Diagram](task2day03.png)
