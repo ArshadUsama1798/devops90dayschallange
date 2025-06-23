@@ -7,3 +7,6 @@ Task 2: Change the access permissions of files to make them readable, writable, 
 
 Task 3: Check the last 10 commands you have run.
 ![Answer Diagram](task3day03.png)
+
+Task 4: Remove a file and a directory and all its contents.
+![Answer Diagram](task4day03.png)
