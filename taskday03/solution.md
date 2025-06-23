@@ -16,6 +16,4 @@ Task 2: Change the access permissions of files to make them readable, writable, 
 
 Task 3: Check the last 10 commands you have run.
 
-    Answer
-            histry | tail -10
-
+    ![Answer Diagram](task3day03.png)
