@@ -10,3 +10,6 @@ Task 3: Check the last 10 commands you have run.
 
 Task 4: Remove a file and a directory and all its contents.
 ![Answer Diagram](images/task4day03.png)
+
+Task 6: Create a fruits.txt file, add content (one fruit per line), and display the content.
+
