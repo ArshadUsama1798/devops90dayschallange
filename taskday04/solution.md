@@ -15,4 +15,13 @@ Task 2: What is #!/bin/bash? Can we write #!/bin/sh as well?
 
 Task 3: Write a Shell Script that prints I will complete #90DaysOfDevOps challenge.
 
-![Related Screenshot](images/task3day04.png) 
+![Related Screenshot](images/task3day04.png)
+
+Task 4: Write a Shell Script that takes user input, input from arguments, and prints the variables.
+![Related Screenshot](images/task4day04.png)
+![Related Screenshot](images/task4day04v2.png)
+
+Task 5: Provide an example of an If-Else statement in Shell Scripting by comparing two numbers.
+![Related Screenshot](images/task5day04.png)
+![Related Screenshot](images/task5day04v2.png)
+ 
