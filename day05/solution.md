@@ -7,8 +7,8 @@ Write a bash script createDirectories.sh that, when executed with three argument
 Example 1: When executed as ./createDirectories.sh day 1 90, it creates 90 directories as day1 day2 day3 ... day90.
 Example 2: When executed as ./createDirectories.sh Movie 20 50, it creates 31 directories as Movie20 Movie21 Movie22 ... Movie50.
 
-![Related Screenshot](images/task1day5)
+![Related Screenshot](images/task1day5.png)
 
-![Related Screenshot](images/task1_1day5)
+![Related Screenshot](images/task1_1day5.png)
 
 
