@@ -11,9 +11,14 @@ Example 2: When executed as ./createDirectories.sh Movie 20 50, it creates 31 di
 
 ![Related Screenshot](images/task1_1day5.png)
 
+
+Testing Task 
+
+This task is for the setting a new instance with Git and clone github folder on the new instances.
+
+When you create a new instance on ec2 and want to download and set the URL for the github repository 
+
 Task 02 
 
-This is for the second task of the days 05 
-I am testing this for the new github account
-Some Folders are removed
+
 
