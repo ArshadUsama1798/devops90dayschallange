@@ -15,4 +15,5 @@ Task 02
 
 This is for the second task of the days 05 
 I am testing this for the new github account
+Some Folders are removed
 
