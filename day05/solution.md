@@ -11,4 +11,7 @@ Example 2: When executed as ./createDirectories.sh Movie 20 50, it creates 31 di
 
 ![Related Screenshot](images/task1_1day5.png)
 
+Task 02 
+
+This is for the second task of the days 05
 
