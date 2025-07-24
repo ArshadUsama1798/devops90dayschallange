@@ -13,5 +13,6 @@ Example 2: When executed as ./createDirectories.sh Movie 20 50, it creates 31 di
 
 Task 02 
 
-This is for the second task of the days 05
+This is for the second task of the days 05 
+I am testing this for the new github account
 
