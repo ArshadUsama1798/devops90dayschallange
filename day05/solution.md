@@ -11,6 +11,7 @@
         - Example 2: When executed as ./createDirectories.sh Movie 20 50, it creates 31 directories as Movie20 Movie21 Movie22 ... Movie50.
 
 **Answer**
+
 ![Related Screenshot](images/task1day5.png)
 
 ![Related Screenshot](images/task1_1day5.png)
@@ -20,6 +21,7 @@
     - Backups are an important part of a DevOps Engineer's day-to-day activities. The video in the references will help you understand how a DevOps Engineer takes backups (it can feel a bit difficult but keep trying, nothing is impossible).
 
 **Answer**
+
 ![Related Screenshot](images/task2day5.png)
 
 ![Related Screenshot](images/task2day5_1.png)
@@ -29,4 +31,5 @@
     - Cron is the system's main scheduler for running jobs or tasks unattended. A command called crontab allows the user to submit, edit, or delete entries to cron. A crontab file is a user file that holds the scheduling information.
 
 **Answer**
+
 ![Related Screensho](images/Task3day05.png)
