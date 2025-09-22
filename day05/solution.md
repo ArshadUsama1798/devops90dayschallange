@@ -32,4 +32,6 @@
 
 **Answer**
 
-![Related Screensho](images/Task3day05.png)
+![Related Screenshot](images/Task3day05.png)
+
+![Related Screenshot](images/Task3_1day05.png)
