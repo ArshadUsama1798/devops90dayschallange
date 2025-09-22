@@ -35,3 +35,21 @@
 ![Related Screenshot](images/Task3day05.png)
 
 ![Related Screenshot](images/Task3_1day05.png)
+
+4. **Read About User Management:**
+
+    - A user is an entity in a Linux operating system that can manipulate files and perform several other operations. Each user is assigned an ID that is unique within the system. IDs 0 to 999 are assigned to system users, and local user IDs start from 1000 onwards.
+    - Create 2 users and display their usernames.
+
+**Answer**
+
+![Related Screenshots](images/Task4day05.png)
+
+![Related Screenshots](images/Task4_1day05.png)
+
+
+
+
+
+
+
