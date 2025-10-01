@@ -34,4 +34,4 @@
     - Change the group and now in the screenshot owner and group both are changes
     - change the permission of file (Giving write permission to other user in last line of this screenshot)
 
-![RelatedScreenshot](images/task1_1day06.png)
+![RelatedScreenshot](images/task1_2day06.png)
