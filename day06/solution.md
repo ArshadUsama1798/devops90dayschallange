@@ -19,4 +19,4 @@
     - view all permissions of created file
     - add a new user
     ***NOTE** if user is not added use SUDO in start of command***
-![relatedScreenshot](/images/Task1day6)
+![relatedScreenshot](images/Task1day6)
