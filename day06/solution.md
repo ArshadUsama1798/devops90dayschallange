@@ -14,4 +14,9 @@
     - Others: All users with access to the system (outside the users in a group).
         - Use chmod to change the other users' permissions of a file or directory.
     - Task: Change the user permissions of the file and note the changes after running ls -ltr.
-
+**Answers**
+    - file is created 
+    - view all permissions of created file
+    - add a new user
+    ***NOTE** if user is not added use SUDO in start of command***
+![relatedScreenshot](/images/Task1day6)
