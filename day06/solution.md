@@ -20,4 +20,4 @@
     - add a new user
     ***NOTE** if user is not added use SUDO in start of command***
 
-![RelatedScreenshot](images/Task1day6)
+![RelatedScreenshot](images/Task1day6.png)
