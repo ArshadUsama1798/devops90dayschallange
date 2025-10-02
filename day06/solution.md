@@ -93,12 +93,10 @@
 
         - Task: Create a directory and set specific ACL permissions for different users and groups. Verify the permissions using getfacl.
 
+    - Installed facl
+    
+    - Created a new directory
 
+    - Changed the owner of directory
 
-
-
-
-
-
-
-
+![Related image](images/task3day6.png) 
