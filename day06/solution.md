@@ -111,5 +111,5 @@
 
 ![Related images](images/task3_2day6.png)
 
-![Related images](iumages/task3_3day6.png)
+![Related images](images/task3_3day6.png)
  
