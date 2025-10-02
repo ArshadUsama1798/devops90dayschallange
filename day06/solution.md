@@ -99,4 +99,17 @@
 
     - Changed the owner of directory
 
-![Related image](images/task3day6.png) 
+![Related image](images/task3day6.png)
+
+    - Owner is changed to usamaowner
+
+![Related Images](images/task3_1day6.png)
+
+    - Change the group of directory
+
+    - Group was changed to the usamagroup
+
+![Related images](images/task3_2day6.png)
+
+![Related images](iumages/task3_3day6.png)
+ 
